@@ -3,4 +3,4 @@
 .env
 .idea
 # /database/seeds
-*.sql
+# *.sql
